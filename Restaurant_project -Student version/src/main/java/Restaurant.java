@@ -69,4 +69,9 @@ public class Restaurant {
         return name;
     }
 
+    //calculate total amount
+    public int calculateBill (String[] orders) throws itemNotFoundException{
+        return -1;
+    }
+
 }
